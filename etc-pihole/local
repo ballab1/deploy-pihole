@@ -1,0 +1,41 @@
+::1             localhost ip6-localhost ip6-loopback
+127.0.0.1       localhost.localdomain localhost
+fe00::0         ip6-localnet
+ff00::0         ip6-mcastprefix
+ff02::1         ip6-allnodes
+ff02::2         ip6-allrouters
+
+192.168.1.1	fios-modem
+10.1.3.1	router r7000
+10.1.3.2	hp55b726 printer
+10.1.3.3	ballantyne
+10.1.3.5	wdmycloud
+10.1.3.6	s3 s3.ubuntu ubuntu-s3
+10.1.3.10	s4 s4.ubuntu ubuntu-s4
+10.1.3.11	s1 s1.ubuntu ubuntu-s1
+10.1.3.12	s2 s2.ubuntu ubuntu-s2
+10.1.3.14	s5 s5.ubuntu ubuntu-s5
+10.1.3.15	s6 s6.ubuntu ubuntu-s6
+10.1.3.16	s7 s7.ubuntu ubuntu-s7
+10.1.3.17	s8 s8.ubuntu ubuntu-s8
+10.1.3.20	playbar playbar.sonos sonos-playbar
+10.1.3.21	sub sub.sonos sonos-sub
+10.1.3.22	ls.play1 ls.play1.sonos sonos-play1-ls
+10.1.3.23	rs.play1 rs.play1.sonos sonos-play1-rs
+10.1.3.30	alexa alexa.amazon amazon-alexa
+10.1.3.31	fire-tv fire-tv.amazon amazon-fire-tv
+10.1.3.34	ge-oven
+10.1.3.35	roomba
+10.1.3.40	front-door front-door.hs200 hs200-front-door
+10.1.3.45	mstr-bedroon mstr-bedroon.hs105 hs105-mstr-bedroom
+10.1.3.46	light light.hs105 hs105-light
+10.1.3.47	gst-bedroom gst-bedroom.hs105 hs105-gst-bedroom
+10.1.3.50	dvd dvd-player
+10.1.3.51	chromecast
+10.1.3.52	tv.samsung tv.samsung samsung-tv
+10.1.3.60	uptairs upstairs-nest
+10.1.3.61	downstairs downstairs.nest downstairs-nest
+10.1.3.65	lhs-garage lhs-garage.door myq-05b-1
+10.1.3.66	rhs-garage rhs-garage.door myq-05b-2
+10.1.3.99	vpn
+
